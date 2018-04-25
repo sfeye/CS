@@ -1,0 +1,7 @@
+Mickey 42 12.75
+Minnie 32.5 15.25
+Donald 51 9.75
+Daisy 20 9.35
+Goofy 31.5 8.95
+Pluto 27.5 16.95
+Cinderella 41.5 1.75

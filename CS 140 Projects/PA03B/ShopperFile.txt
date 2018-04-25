@@ -1,0 +1,4 @@
+Mickey Mouse,100 Fantasy Lane,Orlando,FL,11111,407-111-1111
+7 Eggs,3.06,2 Apples,0.79,6
+Milk,3.29,1 Mountain Dew, 1.59,2 M&Ms,1.79,5 Bananas,1.89,3 Bread,2.19,2 Daisy Duck,2 Toon Town Drive,Orlando,Fl,11111,407-222-2222 2 Milk,3.29,2 Eggs,3.06,1 Minnie Mouse,105 Fantasy Lane,Orlando,Fl,11111,407-222-2222
+4 Eggs,3.06,1 Apples,0.79,10 Milk,3.29,2 Doritos,4.59,3

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=workers
+comment1.target=int\ loadArray(Worker[])
+comment2.params=workers\ count
+comment2.target=int\ addEmployee(Worker[],\ int)
+comment3.params=workers\ count
+comment3.target=void\ changeEmployeeHours(Worker[],\ int)
+comment4.params=workers\ count
+comment4.target=int\ removeEmployee(Worker[],\ int)
+comment5.params=workers\ count
+comment5.target=void\ printPayrollReport(Worker[],\ int)
+comment6.params=workers\ count
+comment6.target=void\ sortArray(Worker[],\ int)
+numComments=7
