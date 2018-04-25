@@ -1,0 +1,16 @@
+i,John,Doe
+2
+CS140-Introduction to Computing I
+CS150-Introduction to Computing II
+s,Jane,Doe
+3
+CS111-Computer Concepts
+CS140-Introduction to Computing I
+PE100-Volleyball 
+i,Mary,Smith
+1
+CS240-Introduction to Computing III
+s,Joe,Smith
+2
+CS150-Introduction to Computing III
+CS234-Database and Web Development

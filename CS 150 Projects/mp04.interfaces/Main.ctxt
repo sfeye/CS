@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=filename
+comment1.target=void\ loadEmployeesFromFile(java.lang.String)
+comment1.text=TODO\:\ open\ the\ file\ and\ read\ all\ the\ records.\ Load\ the\ array\ staff.
+comment2.params=
+comment2.target=void\ sortEmployees()
+comment2.text=TODO\:\ sort\ the\ array\ staff\ using\ selection\ sort.
+comment3.params=index1\ index2
+comment3.target=void\ swap(int,\ int)
+comment3.text=TODO\:\ swaps\ the\ two\ elements\ indexed\ by\ the\ parameters.
+comment4.params=startingAt
+comment4.target=int\ indexOfSmallestElement(int)
+comment4.text=TODO\:\ returns\ the\ index\ of\ the\ smallest\ element\ in\ ascending\ order,\ starting\ at\ the\ specified\ index.
+comment5.params=label
+comment5.target=void\ displayEmployees(java.lang.String)
+comment5.text=TODO\:\ displays\ the\ label,\ followed\ by\ all\ the\ employee\ records\ in\ the\ staff\ array.
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=first\ last\ dateCreated
+comment0.target=UniversityMember(java.lang.String,\ java.lang.String,\ java.util.Date)
+comment1.params=
+comment1.target=java.lang.String\ getFirst()
+comment2.params=
+comment2.target=java.lang.String\ getLast()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.util.Date\ getDateCreated()
+comment5.params=first
+comment5.target=void\ setFirst(java.lang.String)
+comment6.params=last
+comment6.target=void\ setLast(java.lang.String)
+comment7.params=first\ last
+comment7.target=void\ setName(java.lang.String,\ java.lang.String)
+comment8.params=dateCreated
+comment8.target=void\ setDateCreated(java.util.Date)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

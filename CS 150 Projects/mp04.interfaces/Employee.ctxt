@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=first\ last\ payPolicy
+comment0.target=Employee(java.lang.String,\ java.lang.String,\ PayPolicy)
+comment1.params=
+comment1.target=java.lang.String\ getFirst()
+comment10.params=o
+comment10.target=int\ compareTo(Employee)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getLast()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=PayPolicy\ getPayPolicy()
+comment5.params=first
+comment5.target=void\ setFirst(java.lang.String)
+comment6.params=last
+comment6.target=void\ setLast(java.lang.String)
+comment7.params=first\ last
+comment7.target=void\ setName(java.lang.String,\ java.lang.String)
+comment8.params=payPolicy
+comment8.target=void\ setPayPolicy(PayPolicy)
+comment9.params=
+comment9.target=double\ payCheck()
+numComments=12

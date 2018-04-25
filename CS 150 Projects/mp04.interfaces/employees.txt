@@ -1,0 +1,5 @@
+I,iFirst1,iLast1
+F,ftFirst1,ftLast1,65000.0
+P,ptFirst1,ptLast1,13.5,50.0
+F,ftFirst2,ftLast2,55000.0
+P,ptFirst2,ptLast2,20.0,40.0

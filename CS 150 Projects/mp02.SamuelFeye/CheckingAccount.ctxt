@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=accountNumber\ owner
+comment0.target=CheckingAccount(int,\ Customer)
+comment1.params=
+comment1.target=int\ getAccountNumber()
+comment2.params=
+comment2.target=Customer\ getOwner()
+comment3.params=accountNumber
+comment3.target=void\ setAccountNumber(int)
+comment4.params=owner
+comment4.target=void\ setOwner(Customer)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

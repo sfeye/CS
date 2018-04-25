@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bank()
+comment1.params=
+comment1.target=int\ getCustomerCount()
+comment2.params=
+comment2.target=int\ getAccountCount()
+comment3.params=index
+comment3.target=Customer\ getCustomerAtIndex(int)
+comment4.params=index
+comment4.target=Account\ getAccountAtIndex(int)
+comment5.params=o
+comment5.target=void\ addCustomer(Customer)
+comment6.params=o
+comment6.target=void\ openAccount(Account)
+comment7.params=
+comment7.target=java.lang.String\ customerList()
+comment8.params=
+comment8.target=java.lang.String\ accountList()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

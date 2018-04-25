@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ ctorShouldCreateEmptyArrays()
+comment1.params=
+comment1.target=void\ shouldReturnCustomerAtIndex0()
+comment10.params=
+comment10.target=void\ tearDown()
+comment10.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ shouldReturnAccountAtIndex0()
+comment3.params=
+comment3.target=void\ shouldAddCustomerToTheEndOfTheArray()
+comment4.params=
+comment4.target=void\ shouldAddAccountAndCustomerToTheEndOfTheArray()
+comment5.params=
+comment5.target=void\ shouldListAllCustomers()
+comment6.params=
+comment6.target=void\ shoudlListAllAccounts()
+comment7.params=
+comment7.target=void\ shouldReturnProperlyFormattedBankRecord()
+comment8.params=
+comment8.target=BankTest()
+comment8.text=\n\ Default\ constructor\ for\ test\ class\ BankTest\n
+comment9.params=
+comment9.target=void\ setUp()
+comment9.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+numComments=11
