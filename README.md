@@ -1,3 +1,3 @@
 # CS
 
-All of my university CS projects so far.
+CS Projects from SIUE
