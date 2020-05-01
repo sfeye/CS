@@ -1,3 +1,5 @@
 # CS
 
-CS Projects from SIUE
+* CS Projects from SIUE
+* Learning rust projects
+* Learning springboot projects
