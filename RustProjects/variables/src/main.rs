@@ -58,6 +58,6 @@ fn main() {
     let arr = [1, 2, 3, 4, 5];
     let months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
     let arr2: [i32; 5] = [1, 2, 3, 4, 5]; // specifies type and size
-    let first = a[0]; // accessing element
-    let second = a[1];
+    let first = arr2[0]; // accessing element
+    let second = arr2[1];
 }
